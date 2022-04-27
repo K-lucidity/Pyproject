@@ -1,2 +1,5 @@
 # Pyproject
-python项目
+...
+.个人学习python项目
+.git学习
+
